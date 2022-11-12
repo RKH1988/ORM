@@ -15,5 +15,5 @@ This app serves as the back end for an e-commerce site. Using Express.js API, Se
 ![Screenshot](./assets/screenshot.png)
 
 ## Links
-- Video 
+- Video https://drive.google.com/file/d/1iORHtf4xjQp7EeB8uKpr2YfibV7Oxxp0/view 
 - Repo https://github.com/RKH1988/ORM
